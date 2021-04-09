@@ -20,3 +20,19 @@ schoolimg{
     height: 500px;
     width: 1000px;
 }
+.movie_text{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 100%;
+    
+}
+.movie_text i{
+    float: right;
+    
+}
+.movie_text span{
+    color: yellow;
+}
